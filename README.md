@@ -7,7 +7,7 @@ Bash é um interpretador de comandos shell, criado em 8 de junho de 1989, é mui
 
 ## Sumário
 ### Math
- - [Gerador de senhas aleatórias](https://github.com/mfelipesoares/Bash/blob/main/geradorSenhas.sh)
- - [Soma de dois números](https://github.com/mfelipesoares/Bash/blob/main/somaNumeros.sh)
- - [Subtração de dois números](https://github.com/mfelipesoares/Bash/blob/main/subtraiNumeros.sh)
- - [Divisão de dois números](https://github.com/mfelipesoares/Bash/blob/main/divideNumeros.sh.sh)
+ - [Gerador de senhas aleatórias](https://github.com/mfelipesoares/Bash/blob/main/Math/geradorSenhas.sh)
+ - [Soma de dois números](https://github.com/mfelipesoares/Bash/blob/main/Math/somaNumeros.sh)
+ - [Subtração de dois números](https://github.com/mfelipesoares/Bash/blob/main/Math/subtraiNumeros.sh)
+ - [Divisão de dois números](https://github.com/mfelipesoares/Bash/blob/main/Math/divideNumeros.sh.sh)
