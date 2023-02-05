@@ -11,3 +11,5 @@ Bash é um interpretador de comandos shell, criado em 8 de junho de 1989, é mui
  - [Soma de dois números](https://github.com/mfelipesoares/Bash/blob/main/Math/somaNumeros.sh)
  - [Subtração de dois números](https://github.com/mfelipesoares/Bash/blob/main/Math/subtraiNumeros.sh)
  - [Divisão de dois números](https://github.com/mfelipesoares/Bash/blob/main/Math/divideNumeros.sh.sh)
+### Array
+ - [Tipos de Array](https://github.com/mfelipesoares/Bash/blob/main/Array/tiposArray.sh)
